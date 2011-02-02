@@ -1,0 +1,15 @@
+.settings
+.classpath
+.project
+.springBeans
+bin
+
+.DS_Store?
+
+target/
+lib_managed/
+src_managed/
+boot/
+project/boot
+build.properties
+
